@@ -1,0 +1,2 @@
+C:\Users\Misael Beriguete\source\repos\Programadores_Famosos_Xamarin\Programadores_Famosos_Xamarin\Programadores_Famosos_Xamarin\obj\Debug\netstandard2.0\Programadores_Famosos_Xamarin.csproj.AssemblyReference.cache
+C:\Users\Misael Beriguete\source\repos\Programadores_Famosos_Xamarin\Programadores_Famosos_Xamarin\Programadores_Famosos_Xamarin\obj\Debug\netstandard2.0\Programadores_Famosos_Xamarin.GeneratedMSBuildEditorConfig.editorconfig
